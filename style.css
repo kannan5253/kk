@@ -10,11 +10,7 @@
     box-sizing: border-box;
     font-family: 'poppins',sans-serif;
 }
-body
-{
-min-height: 100vh;
-background:linear-gradient(#000000,#bbbdc2)
-}
+
 header
 {
     position: absolute;
